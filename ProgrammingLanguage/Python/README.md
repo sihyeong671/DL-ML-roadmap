@@ -6,3 +6,6 @@
 ## books
 - Effective Python
 - Cpython internal
+
+## reference
+- 
